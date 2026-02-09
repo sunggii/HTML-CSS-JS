@@ -1,6 +1,6 @@
 # mouseenter
 - mouse จะหนีไปเรื่อยๆตอนที่เอา cursor ไปจอ
-![alt text](mouseenter-1.gif) 
+![alt text](mouseenter.gif) 
 
 ## Code
 ```html
