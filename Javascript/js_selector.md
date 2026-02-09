@@ -114,6 +114,7 @@
 
     **result(1-3)**
     - จะเห็นว่าทั้ง 3 แบบได้ output เหมือนกัน
+    
     ![alt text](/img/query.png)
 
 
