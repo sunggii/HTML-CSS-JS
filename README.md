@@ -14,12 +14,12 @@
    - slide_img.md
    - `confetti/` -> คลิ๊กแล้วมีกระดาษโปรยลงมา
       - confetti.md
-      - confetti.mp4
+      - confetti.gif
       - `img/` (เช่น `yuppy.png`)
       - `sounds/` (เช่น `ta-da_yrvBrlS.mp3`, `pop_7e9Is8L.mp3`, `partyblower.mp3`)
    - `mouseenter/` -> mouse หนี
       - mouseenter.md
-      - mouseenter.mp4
+      - mouseenter.gif
 - `css/` -> รวมเนื้อหา css
    - css_basic.md
    - css_kit.md

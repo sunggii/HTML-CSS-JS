@@ -3,11 +3,10 @@
 - มีการใส่เสียง Effect
     - [link to effect sound](https://www.myinstants.com/en/index/th/)
 
-<video controls src="confetti.mp4" title="Title"></video>
+![alt text](confetti.gif)
 
 **หมายเหตุ**
-- .md ไฟล์เล่น VDO .mp4 ไม่ได้
-- ในคลิปตัวอย่างนี้จึงไม่ได้ยินเสียง
+- ในคลิปตัวอย่างนี้คือ gif จึงไม่ได้ยินเสียง
 
 ## code
 ```html
