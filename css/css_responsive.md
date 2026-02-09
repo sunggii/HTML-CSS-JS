@@ -15,7 +15,7 @@
  -  768px จอเป็นสีน้ำเงิน
  -  มากกว่า 768px จอเป็นสีแดง
 
-<video controls src="ex_responsive.mp4" title="Title"></video>
+![alt text](ex_responsive.gif)
 
 ## Html
 ```html

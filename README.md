@@ -24,7 +24,7 @@
    - css_basic.md
    - css_kit.md
    - css_responsive.md
-   - ex_responsive.mp4
+   - ex_responsive.gif
 - `Javascript/` -> รวมเนื้อหา Javascript
    - js_basic.md
    - js_selector.md
